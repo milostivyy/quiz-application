@@ -1,1 +1,1 @@
-# quiz-application
+# quizzler
